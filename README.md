@@ -1,1 +1,1 @@
-# PicturePuzzleGama
+# PicturePuzzleGame
