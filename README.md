@@ -1,1 +1,2 @@
 # PicturePuzzleGame
+This is a Java-based picture puzzle game where players can rearrange shuffled image tiles to solve the puzzle. The game uses a graphical user interface (GUI) built with Java's Swing framework. The image is divided into multiple pieces, and players must click and swap neighboring tiles to reconstruct the original picture. This project demonstrates core concepts of Java GUI programming.
